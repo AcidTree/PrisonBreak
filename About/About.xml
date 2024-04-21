@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Fewer Prison Breaks</name>
+	<name>Configureable Prison Breaks</name>
 	<supportedVersions>
   <li>1.5</li>
 	</supportedVersions>
@@ -13,6 +13,6 @@
   </modDependencies>
   <url>https://github.com/AcidTree/PrisonBreak</url>
 	<packageId>com.lessprisonbreaks</packageId>
-	<description>Disables prison break for pawns with high mood (above mental break threshold)</description>
-  <modVersion>1.0</modVersion>
+	<description>Allows prison breaks to be disabled completely or configured based on mental break threshold, default setting disables prison breaks when a pawn is happy (no mental break risk)</description>
+  <modVersion>1.1</modVersion>
 </ModMetaData>
